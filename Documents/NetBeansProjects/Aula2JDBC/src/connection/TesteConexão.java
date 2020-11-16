@@ -16,6 +16,7 @@ public class TesteConexão {
         
         if (con != null) {
             System.out.println("Conectado com sucesso!");
+            System.out.println("Um Commit Inesperado");
         }
     }
 }
